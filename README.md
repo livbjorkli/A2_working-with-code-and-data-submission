@@ -1,6 +1,6 @@
 # Paint by numbers art designs 
 
-- Paint by numbers designs are a creative activity including art templates that are labelled with a specific numbers, each of whihc corresponds to a different colour, allowing users to fill in the sections with the matching hues.
+- Paint by numbers designs are a creative activity including art templates that are labelled with a specific numbers, each of which corresponds to a different colour, allowing users to fill in the sections with the matching hues.
 
 ## Table of contents 
 - [General info](#general-info)
